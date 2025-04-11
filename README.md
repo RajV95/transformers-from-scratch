@@ -2,9 +2,17 @@
 
 This repository contains an implementation of attention mechanisms and transformer architectures built entirely from scratch using PyTorch. The goal is to demystify the inner workings of transformers by building them piece by piece, without relying on high-level abstractions.
 
+Keep the Paper [Attention Is All You Need (Vaswani et al., 2017)](https://arxiv.org/abs/1706.03762) by Side.
+<br>Implementation is from the paper.
+
+
 ---
 
-## 🚀 What’s Included
+## Current Progress
+
+- 11-04-2025 : Embedding & Positional Encodings
+
+## 🚀 What’s Included by the End
 
 - Scaled Dot-Product Attention
 - Multi-Head Attention
